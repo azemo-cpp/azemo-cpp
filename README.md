@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! I'm Ethan, or more known as azemo online</h1>
+<h1 align="center">Hello, world! I'm Ethan (aka azemo online). Welcome to my GitHub profile.</h1>
 <h3 align="center">A passionate high school developer from the Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
